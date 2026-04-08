@@ -42,7 +42,7 @@ Ha liberato due carovane di schiavi dirette ai mercati del sud, ha distrutto una
 Oggi Seckor ha rafforzato l'uso del suo potere attraverso 7 anni di servizio e ora sta cercando un gruppo stabile a cui legarsi.
 
 # Relazioni
-- Principato di Vievitsia
+- [[Principato di Vievitsia]]
 
 # Obiettivo attuale
 - Placeholder
