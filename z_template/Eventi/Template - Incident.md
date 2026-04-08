@@ -1,25 +1,24 @@
-Overview 
+##Overview 
 Date: Monday, 1 January -20000 12:00:00 AM
-
 Placeholder
 
-Description 
+##Description 
 Placeholder
 
-Location 
+##Location 
 Placeholder
 
-Causes and Effects 
+##Causes and Effects 
 Placeholder
 
-Story 
+##Story 
 Placeholder
 
-Relationships 
+##Relationships 
 Placeholder
 
-Background 
+##Background 
 Placeholder
 
-Additional Details 
+##Additional Details 
 Placeholder
